@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Pavan 👋  
 
-<!--
-**pavankalyan-kadaru/pavankalyan-kadaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst | SQL, Python, Power BI, Tableau  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 About Me
+- Passionate about turning data into actionable insights  
+- Skilled in data analysis, visualization, and dashboards  
+- Background in React development (UI + data apps)  
+- Currently exploring Machine Learning & Data Science  
+
+---
+
+## 🛠️ Tech Stack
+- Python (Pandas, NumPy)  
+- SQL (MySQL)  
+- Power BI & Tableau  
+- Excel  
+
+---
+
+## 📊 Projects
+- Customer Shopping Behavior Analysis  
+- Airbnb Data Analysis Dashboard  
+- Customer Churn Analysis  
+
+---
+
+## 🚀 Goals
+- Land a Data Analyst role  
+- Grow into Data Science / Machine Learning  
+
+---
+
+## 📫 Connect with Me
+- LinkedIn:    https://www.linkedin.com/in/pavan-kalyan-k-87b158242   
